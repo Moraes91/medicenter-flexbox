@@ -118,6 +118,39 @@ nav a:hover {
 }
 
 .banner-title {
-    font-size: 20px;
+    font-size: 18px;
+}
+
+.banner-desc {
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+.banner-options a{
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #fafafa;
+    color: #fafafa;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.banner3 .banner-title {
+    margin-bottom: 20px;
+}
+
+.banner-horarios {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.banner-hora {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    justify-content: space-between;
+    height: 45px;
+    align-items: center;
+    font-size: 13px;
 }
 
