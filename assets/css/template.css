@@ -265,6 +265,38 @@ article .news-resume {
     height: 100%;
 }
 
+.consulta-contato {
+    display: flex;
+    height: 60px;
+    border-bottom: #ddd 1px solid;
+}
+
+.consulta-desc {
+    color: #5c5c5c;
+    font-size: 15px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.consulta-contato-text {
+    font-size: 13px;
+    line-height: 60px;
+}
+
+.consulta-contato i {
+    margin-top: 15px;
+    color: #ccc;
+    margin-right: 8px;
+}
+
+.consulta-contato-text a {
+    color: #36a9e1;
+}
+
+.consulta-contato-text a:hover {
+    color: #2b4c99;
+}
+
 
 footer {
     background-color: #1e1e1e;
