@@ -21,7 +21,7 @@
 
 ## 📖 Sobre 
 
-Este site foi desenvolvido com o objetivo de recriar um template para clínicas médicas, neste site em específico o foco foi aplicar o flexbox assim fixando os conhecimentos aprendidos desta tecnologia do CSS3.
+Este site foi desenvolvido com o objetivo de recriar um template para clínicas médicas, neste site em específico o foco foi aplicar os conhecimentos de flexbox adiquiridos durante o curso de Desenvolvedor Fullstack da B7Web com o professor Bonieky Lacerda.  
 
 ---
 
