@@ -27,8 +27,8 @@ Este site foi desenvolvido com o objetivo de recriar um template para clínicas 
 
 ## 🚀 Tecnologias utilizadas
 O projeto está sendo desenvolvido com as seguintes tecnologias:
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ---
 
